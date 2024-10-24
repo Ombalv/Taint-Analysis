@@ -1,0 +1,3 @@
+<sensitive.Source: int source()>
+<sensitive.Source: int sensitiveInfo()>
+<secret.Input: int sensitiveInfo()>

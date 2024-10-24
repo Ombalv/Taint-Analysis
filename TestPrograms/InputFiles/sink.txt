@@ -1,0 +1,3 @@
+<sensitive.Sink: void sink(int)>
+<sensitive.Sink: void leak(int)>
+<secret.Input: void send(int)>
